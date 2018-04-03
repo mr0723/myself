@@ -1,0 +1,7 @@
+*{	
+	margin: 0; /* body的margin值默认8px */
+	text-decoration: none;
+	font-style: normal;
+	padding: 0;
+	list-style: none;
+}
